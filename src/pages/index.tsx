@@ -15,7 +15,7 @@ export default function Index() {
           <h1>
           <span className="fancy">ALWAYS</span> DO WHAT YOU CAN'T
           </h1>
-          <span className="handle">@nextjs-netlify-blog</span>
+          <span className="handle">@raulmar</span>
           <h2>my life motto</h2>
           <SocialList />
         </div>

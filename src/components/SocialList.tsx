@@ -9,7 +9,7 @@ export function SocialList({}) {
     <div>
       <a
         title="Linkedin"
-        href={`https://linkedin.com/${config.twitter_account}`}
+        href={`https://linkedin.com/in/${config.twitter_account}`}
         target="_blank"
         rel="noopener"
       >
