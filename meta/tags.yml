@@ -1,15 +1,7 @@
 tags:
-  - slug: raulmar
-    name: raulmar
-  - slug: document
-    name: document
-  - slug: mock
-    name: mock
-  - slug: style
-    name: style
-  - slug: license
-    name: license
-  - slug: mdx
-    name: mdx
-  - slug: markdown
-    name: markdown
+  - slug: software
+    name: Software
+  - slug: lifestyle
+    name: Lifestyle
+  - slug: languages
+    name: Languages
