@@ -1,17 +1,11 @@
 {
-  "base_url": "https://wutali-nextjs-netlify-blog.netlify.app",
+  "base_url": "https://priceless-clarke-614c20.netlify.app",
   "site_title": "Raulmar 🤙",
   "site_description": "Hey there! Welcome to my online home ❤",
   "site_keywords": [
-    {
-      "keyword": "Next.js"
-    },
-    {
-      "keyword": "Netlify"
-    },
-    {
-      "keyword": "React"
-    }
+    "Software Development",
+    "Lifestyle",
+    "Languages"
   ],
   "posts_per_page": 5,
   "twitter_account": "raulmarhernandez",
